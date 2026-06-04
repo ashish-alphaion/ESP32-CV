@@ -1,3 +1,0 @@
-# Python dependencies for ESP32 Dashboard
-pyserial>=3.5
-PyBluez>=0.23        # Windows/Linux; on macOS use: lightblue
