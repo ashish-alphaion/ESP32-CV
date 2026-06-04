@@ -1,0 +1,6 @@
+{
+  "latest_version": "2.0",
+  "changelog": "Initial stable release — combined USB + BLE with HMAC authentication.",
+  "firmware_url": "https://github.com/YOUR_USERNAME/alphasense-firmware/releases/download/v2.0/AlphaSense_v2.zip",
+  "firmware_sha256": ""
+}
